@@ -110,7 +110,7 @@ After running the project, the following files are generated:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/superstore-sales-analysis.git
+git clone https://github.com/muhammadmuteeb-dev/superstore-sales-analysis.git
 ```
 
 ### Install Required Libraries
@@ -150,7 +150,7 @@ GitHub:
 https://github.com/muhammadmuteeb-dev
 
 LinkedIn:
-(https://www.linkedin.com/in/muhammad-muteeb-9b9a41376/)
+https://www.linkedin.com/in/muhammad-muteeb-9b9a41376/
 
 ---
 
