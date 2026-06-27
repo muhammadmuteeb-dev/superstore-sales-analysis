@@ -155,3 +155,5 @@ LinkedIn:
 ---
 
 ## ⭐ If you found this project useful, don't forget to give it a Star!
+# superstore-sales-analysis
+Superstore Sales Analysis using Python, Pandas and NumPy
