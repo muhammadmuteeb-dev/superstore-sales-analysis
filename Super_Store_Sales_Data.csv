@@ -1,0 +1,201 @@
+Order_ID,Customer_Name,Segment,Region,City,Category,Product,Sales,Quantity,Discount,Profit,Ship_Mode,Order_Date,Year,Month,Day,Total_Sales,Customer_Segmentation
+S1001,Ali,Consumer,Punjab,Lahore,Electronics,Laptop,120000,1,0.1,25000,Standard,2025-01-05,2025,January,Sunday,120000,High
+S1002,Ahmed,Corporate,Sindh,Karachi,Furniture,Chair,15000,2,0.05,3000,Express,2025-01-06,2025,January,Monday,30000,Low
+S1003,Sara,Home Office,Islamabad,Islamabad,Electronics,Tablet,65000,1,0.15,12000,Standard,2025-01-07,2025,January,Tuesday,65000,Medium
+S1004,Ayesha,Consumer,Punjab,Faisalabad,Accessories,Mouse,2500,5,0.02,700,Express,2025-01-08,2025,January,Wednesday,12500,Low
+S1005,Bilal,Corporate,Sindh,Karachi,Electronics,Mobile,85000,2,0.1,18000,Standard,2025-01-09,2025,January,Thursday,170000,High
+S1006,Usman,Consumer,KPK,Peshawar,Furniture,Table,30000,1,0.05,5000,Standard,2025-01-10,2025,January,Friday,30000,Low
+S1007,Fatima,Home Office,Punjab,Lahore,Electronics,Camera,98000,1,0.1,15000,Express,2025-01-11,2025,January,Saturday,98000,Medium
+S1008,Hina,Consumer,Sindh,Karachi,Accessories,Keyboard,4500,2,0.03,900,Standard,2025-01-12,2025,January,Sunday,9000,Low
+S1009,Hamza,Corporate,Islamabad,Islamabad,Electronics,Laptop,125000,1,0.12,26000,Express,2025-01-13,2025,January,Monday,125000,High
+S1010,Zain,Consumer,KPK,Peshawar,Furniture,Sofa,55000,1,0.08,-4000,Standard,2025-01-14,2025,January,Tuesday,55000,Medium
+S1011,Ali,Consumer,Punjab,Lahore,Electronics,Mobile,90000,2,0.1,20000,Express,2025-01-15,2025,January,Wednesday,180000,High
+S1012,Ahmed,Corporate,Sindh,Karachi,Accessories,Mouse,2600,4,0.01,600,Standard,2025-01-16,2025,January,Thursday,10400,Low
+S1013,Sara,Home Office,Islamabad,Islamabad,Electronics,Tablet,67000,1,0.15,13000,Express,2025-01-17,2025,January,Friday,67000,Medium
+S1014,Ayesha,Consumer,Punjab,Faisalabad,Furniture,Chair,16000,2,0.05,3500,Standard,2025-01-18,2025,January,Saturday,32000,Low
+S1015,Bilal,Corporate,Sindh,Karachi,Electronics,Mobile,88000,1,0.1,19000,Express,2025-01-19,2025,January,Sunday,88000,Medium
+S1016,Usman,Consumer,KPK,Peshawar,Accessories,Keyboard,4800,3,0.02,1000,Standard,2025-01-20,2025,January,Monday,14400,Low
+S1017,Fatima,Home Office,Punjab,Lahore,Electronics,Camera,98000,1,0.1,16000,Express,2025-01-21,2025,January,Tuesday,98000,Medium
+S1018,Hina,Consumer,Sindh,Karachi,Furniture,Table,31000,1,0.05,5200,Standard,2025-01-22,2025,January,Wednesday,31000,Low
+S1019,Hamza,Corporate,Islamabad,Islamabad,Electronics,Laptop,128000,1,0.12,27000,Express,2025-01-23,2025,January,Thursday,128000,High
+S1020,Zain,Consumer,KPK,Peshawar,Accessories,Mouse,2400,6,0.01,650,Standard,2025-01-24,2025,January,Friday,14400,Low
+S1021,Noman,Corporate,Punjab,Multan,Office Supplies,Printer,27000,2,0.08,4500,Standard,2025-01-25,2025,January,Saturday,54000,Medium
+S1022,Farah,Consumer,Sindh,Hyderabad,Electronics,Monitor,42000,1,0.1,7000,Express,2025-01-26,2025,January,Sunday,42000,Low
+S1023,Imran,Home Office,Islamabad,Islamabad,Furniture,Desk,38000,1,0.05,6000,Standard,2025-01-27,2025,January,Monday,38000,Low
+S1024,Sana,Consumer,Punjab,Faisalabad,Accessories,Lamp,6500,3,0.02,1500,Express,2025-01-28,2025,January,Tuesday,19500,Low
+S1025,Kamran,Corporate,KPK,Peshawar,Electronics,Laptop,122000,1,0.12,24000,Standard,2025-01-29,2025,January,Wednesday,122000,High
+S1026,Iqra,Consumer,Balochistan,Quetta,Furniture,Sofa,56000,1,0.08,-3000,Express,2025-01-30,2025,January,Thursday,56000,Medium
+S1027,Shahid,Home Office,Sindh,Karachi,Electronics,Tablet,66000,1,0.15,11000,Standard,2025-01-31,2025,January,Friday,66000,Medium
+S1028,Nadia,Consumer,Punjab,Rawalpindi,Accessories,Mouse,2300,4,0.01,500,Standard,2025-02-01,2025,February,Saturday,9200,Low
+S1029,Javed,Corporate,Islamabad,Islamabad,Office Supplies,Binder,1800,10,0.05,400,Express,2025-02-02,2025,February,Sunday,18000,Low
+S1030,Rana,Consumer,KPK,Peshawar,Furniture,Chair,14000,2,0.05,2800,Standard,2025-02-03,2025,February,Monday,28000,Low
+S1031,Ali,Corporate,Punjab,Lahore,Electronics,Mobile,87000,1,0.1,17000,Express,2025-02-04,2025,February,Tuesday,87000,Medium
+S1032,Ahmed,Consumer,Sindh,Karachi,Accessories,Keyboard,4100,2,0.03,800,Standard,2025-02-05,2025,February,Wednesday,8200,Low
+S1033,Sara,Home Office,Islamabad,Islamabad,Electronics,Camera,95000,1,0.1,14000,Express,2025-02-06,2025,February,Thursday,95000,Medium
+S1034,Ayesha,Consumer,Punjab,Faisalabad,Office Supplies,Paper,800,20,0.02,200,Standard,2025-02-07,2025,February,Friday,16000,Low
+S1035,Bilal,Corporate,Sindh,Karachi,Furniture,Table,32000,1,0.05,5500,Express,2025-02-08,2025,February,Saturday,32000,Low
+S1036,Usman,Consumer,KPK,Peshawar,Electronics,Laptop,118000,1,0.1,22000,Standard,2025-02-09,2025,February,Sunday,118000,High
+S1037,Fatima,Home Office,Punjab,Lahore,Accessories,Lamp,5500,2,0.02,1200,Express,2025-02-10,2025,February,Monday,11000,Low
+S1038,Hina,Consumer,Sindh,Karachi,Furniture,Desk,36000,1,0.05,5800,Standard,2025-02-11,2025,February,Tuesday,36000,Low
+S1039,Hamza,Corporate,Islamabad,Islamabad,Electronics,Mobile,89000,2,0.1,20000,Express,2025-02-12,2025,February,Wednesday,178000,High
+S1040,Zain,Consumer,KPK,Peshawar,Accessories,Mouse,2500,5,0.01,600,Standard,2025-02-13,2025,February,Thursday,12500,Low
+S1041,Noman,Corporate,Punjab,Multan,Electronics,Monitor,45000,1,0.1,8000,Standard,2025-02-14,2025,February,Friday,45000,Low
+S1042,Farah,Consumer,Sindh,Hyderabad,Furniture,Sofa,52000,1,0.08,-2500,Express,2025-02-15,2025,February,Saturday,52000,Medium
+S1043,Imran,Home Office,Islamabad,Islamabad,Office Supplies,Printer,28000,1,0.08,5000,Standard,2025-02-16,2025,February,Sunday,28000,Low
+S1044,Sana,Consumer,Punjab,Faisalabad,Electronics,Tablet,64000,1,0.15,10000,Express,2025-02-17,2025,February,Monday,64000,Medium
+S1045,Kamran,Corporate,KPK,Peshawar,Furniture,Chair,17000,2,0.05,3200,Standard,2025-02-18,2025,February,Tuesday,34000,Low
+S1046,Iqra,Consumer,Balochistan,Quetta,Accessories,Keyboard,4200,3,0.03,900,Express,2025-02-19,2025,February,Wednesday,12600,Low
+S1047,Shahid,Home Office,Sindh,Karachi,Electronics,Laptop,126000,1,0.12,25000,Standard,2025-02-20,2025,February,Thursday,126000,High
+S1048,Nadia,Consumer,Punjab,Rawalpindi,Furniture,Table,29000,1,0.05,4800,Standard,2025-02-21,2025,February,Friday,29000,Low
+S1049,Javed,Corporate,Islamabad,Islamabad,Electronics,Camera,97000,1,0.1,15500,Express,2025-02-22,2025,February,Saturday,97000,Medium
+S1050,Rana,Consumer,KPK,Peshawar,Accessories,Mouse,2200,4,0.01,450,Standard,2025-02-23,2025,February,Sunday,8800,Low
+S1051,Ali,Corporate,Punjab,Lahore,Office Supplies,Binder,2000,8,0.05,350,Express,2025-02-24,2025,February,Monday,16000,Low
+S1052,Ahmed,Consumer,Sindh,Karachi,Electronics,Mobile,86000,2,0.1,18000,Standard,2025-02-25,2025,February,Tuesday,172000,High
+S1053,Sara,Home Office,Islamabad,Islamabad,Furniture,Desk,37000,1,0.05,5900,Express,2025-02-26,2025,February,Wednesday,37000,Low
+S1054,Ayesha,Consumer,Punjab,Faisalabad,Accessories,Lamp,6000,2,0.02,1300,Standard,2025-02-27,2025,February,Thursday,12000,Low
+S1055,Bilal,Corporate,Sindh,Karachi,Electronics,Laptop,124000,1,0.12,26000,Express,2025-02-28,2025,February,Friday,124000,High
+S1056,Usman,Consumer,KPK,Peshawar,Furniture,Chair,16000,1,0.05,3000,Standard,2025-03-01,2025,March,Saturday,16000,Low
+S1057,Fatima,Home Office,Punjab,Lahore,Office Supplies,Paper,750,25,0.02,180,Express,2025-03-02,2025,March,Sunday,18750,Low
+S1058,Hina,Consumer,Sindh,Karachi,Electronics,Tablet,68000,1,0.15,12000,Standard,2025-03-03,2025,March,Monday,68000,Medium
+S1059,Hamza,Corporate,Islamabad,Islamabad,Accessories,Mouse,2700,3,0.01,650,Express,2025-03-04,2025,March,Tuesday,8100,Low
+S1060,Zain,Consumer,KPK,Peshawar,Electronics,Mobile,91000,1,0.1,21000,Standard,2025-03-05,2025,March,Wednesday,91000,Medium
+S1061,Noman,Corporate,Punjab,Multan,Furniture,Sofa,54000,1,0.08,-3500,Standard,2025-03-06,2025,March,Thursday,54000,Medium
+S1062,Farah,Consumer,Sindh,Hyderabad,Accessories,Keyboard,4300,2,0.03,850,Express,2025-03-07,2025,March,Friday,8600,Low
+S1063,Imran,Home Office,Islamabad,Islamabad,Electronics,Monitor,43000,1,0.1,7200,Standard,2025-03-08,2025,March,Saturday,43000,Low
+S1064,Sana,Consumer,Punjab,Faisalabad,Office Supplies,Printer,26000,2,0.08,4200,Express,2025-03-09,2025,March,Sunday,52000,Medium
+S1065,Kamran,Corporate,KPK,Peshawar,Furniture,Table,33000,1,0.05,5600,Standard,2025-03-10,2025,March,Monday,33000,Low
+S1066,Iqra,Consumer,Balochistan,Quetta,Electronics,Laptop,115000,1,0.1,21000,Express,2025-03-11,2025,March,Tuesday,115000,High
+S1067,Shahid,Home Office,Sindh,Karachi,Accessories,Mouse,2400,5,0.01,550,Standard,2025-03-12,2025,March,Wednesday,12000,Low
+S1068,Nadia,Consumer,Punjab,Rawalpindi,Furniture,Chair,18000,2,0.05,3400,Express,2025-03-13,2025,March,Thursday,36000,Low
+S1069,Javed,Corporate,Islamabad,Islamabad,Electronics,Camera,99000,1,0.1,16500,Standard,2025-03-14,2025,March,Friday,99000,Medium
+S1070,Rana,Consumer,KPK,Peshawar,Office Supplies,Binder,1900,10,0.05,380,Express,2025-03-15,2025,March,Saturday,19000,Low
+S1071,Ali,Consumer,Punjab,Lahore,Furniture,Desk,39000,1,0.05,6200,Standard,2025-03-16,2025,March,Sunday,39000,Low
+S1072,Ahmed,Corporate,Sindh,Karachi,Electronics,Mobile,88000,2,0.1,19000,Express,2025-03-17,2025,March,Monday,176000,High
+S1073,Sara,Home Office,Islamabad,Islamabad,Accessories,Lamp,5200,3,0.02,1100,Standard,2025-03-18,2025,March,Tuesday,15600,Low
+S1074,Ayesha,Consumer,Punjab,Faisalabad,Electronics,Tablet,63000,1,0.15,9500,Express,2025-03-19,2025,March,Wednesday,63000,Medium
+S1075,Bilal,Corporate,Sindh,Karachi,Furniture,Sofa,58000,1,0.08,-2000,Standard,2025-03-20,2025,March,Thursday,58000,Medium
+S1076,Usman,Consumer,KPK,Peshawar,Office Supplies,Paper,650,30,0.02,150,Express,2025-03-21,2025,March,Friday,19500,Low
+S1077,Fatima,Home Office,Punjab,Lahore,Electronics,Laptop,130000,1,0.12,28000,Standard,2025-03-22,2025,March,Saturday,130000,High
+S1078,Hina,Consumer,Sindh,Karachi,Accessories,Mouse,2100,6,0.01,400,Express,2025-03-23,2025,March,Sunday,12600,Low
+S1079,Hamza,Corporate,Islamabad,Islamabad,Furniture,Chair,15000,2,0.05,3100,Standard,2025-03-24,2025,March,Monday,30000,Low
+S1080,Zain,Consumer,KPK,Peshawar,Electronics,Monitor,44000,1,0.1,7500,Express,2025-03-25,2025,March,Tuesday,44000,Low
+S1081,Noman,Corporate,Punjab,Multan,Accessories,Keyboard,4700,1,0.03,1000,Standard,2025-03-26,2025,March,Wednesday,4700,Low
+S1082,Farah,Consumer,Sindh,Hyderabad,Electronics,Mobile,87000,1,0.1,16000,Express,2025-03-27,2025,March,Thursday,87000,Medium
+S1083,Imran,Home Office,Islamabad,Islamabad,Office Supplies,Printer,30000,1,0.08,5500,Standard,2025-03-28,2025,March,Friday,30000,Low
+S1084,Sana,Consumer,Punjab,Faisalabad,Furniture,Table,30000,1,0.05,5100,Express,2025-03-29,2025,March,Saturday,30000,Low
+S1085,Kamran,Corporate,KPK,Peshawar,Electronics,Camera,96000,1,0.1,14500,Standard,2025-03-30,2025,March,Sunday,96000,Medium
+S1086,Iqra,Consumer,Balochistan,Quetta,Accessories,Mouse,2600,4,0.01,550,Express,2025-03-31,2025,March,Monday,10400,Low
+S1087,Shahid,Home Office,Sindh,Karachi,Furniture,Desk,35000,1,0.05,5700,Standard,2025-04-01,2025,April,Tuesday,35000,Low
+S1088,Nadia,Consumer,Punjab,Rawalpindi,Electronics,Laptop,119000,1,0.1,23000,Express,2025-04-02,2025,April,Wednesday,119000,High
+S1089,Javed,Corporate,Islamabad,Islamabad,Accessories,Lamp,5800,2,0.02,1250,Standard,2025-04-03,2025,April,Thursday,11600,Low
+S1090,Rana,Consumer,KPK,Peshawar,Furniture,Chair,17000,1,0.05,3200,Express,2025-04-04,2025,April,Friday,17000,Low
+S1091,Ali,Corporate,Punjab,Lahore,Office Supplies,Binder,2100,9,0.05,400,Standard,2025-04-05,2025,April,Saturday,18900,Low
+S1092,Ahmed,Consumer,Sindh,Karachi,Electronics,Tablet,65000,1,0.15,11000,Express,2025-04-06,2025,April,Sunday,65000,Medium
+S1093,Sara,Home Office,Islamabad,Islamabad,Electronics,Mobile,92000,2,0.1,21000,Standard,2025-04-07,2025,April,Monday,184000,High
+S1094,Ayesha,Consumer,Punjab,Faisalabad,Furniture,Sofa,53000,1,0.08,-2800,Express,2025-04-08,2025,April,Tuesday,53000,Medium
+S1095,Bilal,Corporate,Sindh,Karachi,Accessories,Keyboard,4400,3,0.03,900,Standard,2025-04-09,2025,April,Wednesday,13200,Low
+S1096,Usman,Consumer,KPK,Peshawar,Electronics,Laptop,127000,1,0.12,26500,Express,2025-04-10,2025,April,Thursday,127000,High
+S1097,Fatima,Home Office,Punjab,Lahore,Office Supplies,Paper,700,28,0.02,170,Standard,2025-04-11,2025,April,Friday,19600,Low
+S1098,Hina,Consumer,Sindh,Karachi,Furniture,Table,34000,1,0.05,5800,Express,2025-04-12,2025,April,Saturday,34000,Low
+S1099,Hamza,Corporate,Islamabad,Islamabad,Electronics,Monitor,46000,1,0.1,7800,Standard,2025-04-13,2025,April,Sunday,46000,Low
+S1100,Zain,Consumer,KPK,Peshawar,Accessories,Mouse,2300,5,0.01,500,Express,2025-04-14,2025,April,Monday,11500,Low
+S1101,Noman,Corporate,Punjab,Multan,Electronics,Camera,100000,1,0.1,17000,Standard,2025-04-15,2025,April,Tuesday,100000,Medium
+S1102,Farah,Consumer,Sindh,Hyderabad,Office Supplies,Printer,29000,1,0.08,5200,Express,2025-04-16,2025,April,Wednesday,29000,Low
+S1103,Imran,Home Office,Islamabad,Islamabad,Furniture,Chair,16000,2,0.05,2900,Standard,2025-04-17,2025,April,Thursday,32000,Low
+S1104,Sana,Consumer,Punjab,Faisalabad,Electronics,Laptop,121000,1,0.12,24500,Express,2025-04-18,2025,April,Friday,121000,High
+S1105,Kamran,Corporate,KPK,Peshawar,Accessories,Lamp,5400,3,0.02,1150,Standard,2025-04-19,2025,April,Saturday,16200,Low
+S1106,Iqra,Consumer,Balochistan,Quetta,Furniture,Desk,37000,1,0.05,6000,Express,2025-04-20,2025,April,Sunday,37000,Low
+S1107,Shahid,Home Office,Sindh,Karachi,Electronics,Mobile,85000,2,0.1,17000,Standard,2025-04-21,2025,April,Monday,170000,High
+S1108,Nadia,Consumer,Punjab,Rawalpindi,Office Supplies,Binder,1800,12,0.05,360,Express,2025-04-22,2025,April,Tuesday,21600,Low
+S1109,Javed,Corporate,Islamabad,Islamabad,Accessories,Keyboard,4900,2,0.03,1000,Standard,2025-04-23,2025,April,Wednesday,9800,Low
+S1110,Rana,Consumer,KPK,Peshawar,Electronics,Tablet,69000,1,0.15,12500,Express,2025-04-24,2025,April,Thursday,69000,Medium
+S1111,Ali,Consumer,Punjab,Lahore,Furniture,Sofa,57000,1,0.08,-1500,Standard,2025-04-25,2025,April,Friday,57000,Medium
+S1112,Ahmed,Corporate,Sindh,Karachi,Accessories,Mouse,2500,4,0.01,600,Express,2025-04-26,2025,April,Saturday,10000,Low
+S1113,Sara,Home Office,Islamabad,Islamabad,Electronics,Laptop,123000,1,0.12,25000,Standard,2025-04-27,2025,April,Sunday,123000,High
+S1114,Ayesha,Consumer,Punjab,Faisalabad,Office Supplies,Paper,850,22,0.02,210,Express,2025-04-28,2025,April,Monday,18700,Low
+S1115,Bilal,Corporate,Sindh,Karachi,Furniture,Table,31000,1,0.05,5300,Standard,2025-04-29,2025,April,Tuesday,31000,Low
+S1116,Usman,Consumer,KPK,Peshawar,Electronics,Camera,94000,1,0.1,13500,Express,2025-04-30,2025,April,Wednesday,94000,Medium
+S1117,Fatima,Home Office,Punjab,Lahore,Accessories,Lamp,6200,2,0.02,1400,Standard,2025-05-01,2025,May,Thursday,12400,Low
+S1118,Hina,Consumer,Sindh,Karachi,Electronics,Monitor,47000,1,0.1,8000,Express,2025-05-02,2025,May,Friday,47000,Low
+S1119,Hamza,Corporate,Islamabad,Islamabad,Furniture,Chair,18000,2,0.05,3500,Standard,2025-05-03,2025,May,Saturday,36000,Low
+S1120,Zain,Consumer,KPK,Peshawar,Office Supplies,Printer,27000,1,0.08,4600,Express,2025-05-04,2025,May,Sunday,27000,Low
+S1121,Noman,Corporate,Punjab,Multan,Electronics,Mobile,90000,1,0.1,20000,Standard,2025-05-05,2025,May,Monday,90000,Medium
+S1122,Farah,Consumer,Sindh,Hyderabad,Accessories,Mouse,2200,6,0.01,480,Express,2025-05-06,2025,May,Tuesday,13200,Low
+S1123,Imran,Home Office,Islamabad,Islamabad,Furniture,Desk,40000,1,0.05,6400,Standard,2025-05-07,2025,May,Wednesday,40000,Low
+S1124,Sana,Consumer,Punjab,Faisalabad,Electronics,Tablet,66000,1,0.15,11500,Express,2025-05-08,2025,May,Thursday,66000,Medium
+S1125,Kamran,Corporate,KPK,Peshawar,Accessories,Keyboard,4600,2,0.03,950,Standard,2025-05-09,2025,May,Friday,9200,Low
+S1126,Iqra,Consumer,Balochistan,Quetta,Electronics,Laptop,116000,1,0.1,21500,Express,2025-05-10,2025,May,Saturday,116000,High
+S1127,Shahid,Home Office,Sindh,Karachi,Furniture,Sofa,55000,1,0.08,-2500,Standard,2025-05-11,2025,May,Sunday,55000,Medium
+S1128,Nadia,Consumer,Punjab,Rawalpindi,Office Supplies,Binder,2200,8,0.05,450,Express,2025-05-12,2025,May,Monday,17600,Low
+S1129,Javed,Corporate,Islamabad,Islamabad,Electronics,Camera,98000,1,0.1,15500,Standard,2025-05-13,2025,May,Tuesday,98000,Medium
+S1130,Rana,Consumer,KPK,Peshawar,Accessories,Lamp,5800,2,0.02,1250,Express,2025-05-14,2025,May,Wednesday,11600,Low
+S1131,Ali,Corporate,Punjab,Lahore,Electronics,Mobile,89000,2,0.1,19500,Standard,2025-05-15,2025,May,Thursday,178000,High
+S1132,Ahmed,Consumer,Sindh,Karachi,Furniture,Table,32000,1,0.05,5400,Express,2025-05-16,2025,May,Friday,32000,Low
+S1133,Sara,Home Office,Islamabad,Islamabad,Accessories,Mouse,2700,3,0.01,650,Standard,2025-05-17,2025,May,Saturday,8100,Low
+S1134,Ayesha,Consumer,Punjab,Faisalabad,Electronics,Monitor,44000,1,0.1,7300,Express,2025-05-18,2025,May,Sunday,44000,Low
+S1135,Bilal,Corporate,Sindh,Karachi,Office Supplies,Paper,720,30,0.02,170,Standard,2025-05-19,2025,May,Monday,21600,Low
+S1136,Usman,Consumer,KPK,Peshawar,Furniture,Chair,15000,2,0.05,2800,Express,2025-05-20,2025,May,Tuesday,30000,Low
+S1137,Fatima,Home Office,Punjab,Lahore,Electronics,Laptop,129000,1,0.12,27500,Standard,2025-05-21,2025,May,Wednesday,129000,High
+S1138,Hina,Consumer,Sindh,Karachi,Accessories,Keyboard,4300,3,0.03,850,Express,2025-05-22,2025,May,Thursday,12900,Low
+S1139,Hamza,Corporate,Islamabad,Islamabad,Furniture,Desk,36000,1,0.05,5700,Standard,2025-05-23,2025,May,Friday,36000,Low
+S1140,Zain,Consumer,KPK,Peshawar,Electronics,Tablet,64000,1,0.15,10500,Express,2025-05-24,2025,May,Saturday,64000,Medium
+S1141,Noman,Corporate,Punjab,Multan,Accessories,Lamp,5000,4,0.02,1000,Standard,2025-05-25,2025,May,Sunday,20000,Low
+S1142,Farah,Consumer,Sindh,Hyderabad,Electronics,Mobile,86000,1,0.1,17500,Express,2025-05-26,2025,May,Monday,86000,Medium
+S1143,Imran,Home Office,Islamabad,Islamabad,Office Supplies,Printer,32000,1,0.08,5800,Standard,2025-05-27,2025,May,Tuesday,32000,Low
+S1144,Sana,Consumer,Punjab,Faisalabad,Furniture,Sofa,51000,1,0.08,-3000,Express,2025-05-28,2025,May,Wednesday,51000,Medium
+S1145,Kamran,Corporate,KPK,Peshawar,Electronics,Camera,96000,1,0.1,15000,Standard,2025-05-29,2025,May,Thursday,96000,Medium
+S1146,Iqra,Consumer,Balochistan,Quetta,Accessories,Mouse,2400,5,0.01,520,Express,2025-05-30,2025,May,Friday,12000,Low
+S1147,Shahid,Home Office,Sindh,Karachi,Furniture,Table,33000,1,0.05,5600,Standard,2025-05-31,2025,May,Saturday,33000,Low
+S1148,Nadia,Consumer,Punjab,Rawalpindi,Electronics,Laptop,117000,1,0.1,22500,Express,2025-06-01,2025,June,Sunday,117000,High
+S1149,Javed,Corporate,Islamabad,Islamabad,Office Supplies,Binder,1700,11,0.05,340,Standard,2025-06-02,2025,June,Monday,18700,Low
+S1150,Rana,Consumer,KPK,Peshawar,Accessories,Keyboard,4000,2,0.03,750,Express,2025-06-03,2025,June,Tuesday,8000,Low
+S1151,Ali,Consumer,Punjab,Lahore,Electronics,Mobile,91000,2,0.1,20500,Standard,2025-06-04,2025,June,Wednesday,182000,High
+S1152,Ahmed,Corporate,Sindh,Karachi,Furniture,Chair,14000,2,0.05,2600,Express,2025-06-05,2025,June,Thursday,28000,Low
+S1153,Sara,Home Office,Islamabad,Islamabad,Electronics,Monitor,45000,1,0.1,7700,Standard,2025-06-06,2025,June,Friday,45000,Low
+S1154,Ayesha,Consumer,Punjab,Faisalabad,Accessories,Lamp,5600,3,0.02,1200,Express,2025-06-07,2025,June,Saturday,16800,Low
+S1155,Bilal,Corporate,Sindh,Karachi,Office Supplies,Paper,800,25,0.02,190,Standard,2025-06-08,2025,June,Sunday,20000,Low
+S1156,Usman,Consumer,KPK,Peshawar,Furniture,Desk,38000,1,0.05,6100,Express,2025-06-09,2025,June,Monday,38000,Low
+S1157,Fatima,Home Office,Punjab,Lahore,Electronics,Tablet,67000,1,0.15,11800,Standard,2025-06-10,2025,June,Tuesday,67000,Medium
+S1158,Hina,Consumer,Sindh,Karachi,Accessories,Mouse,2600,4,0.01,580,Express,2025-06-11,2025,June,Wednesday,10400,Low
+S1159,Hamza,Corporate,Islamabad,Islamabad,Electronics,Laptop,124000,1,0.12,25500,Standard,2025-06-12,2025,June,Thursday,124000,High
+S1160,Zain,Consumer,KPK,Peshawar,Furniture,Sofa,54000,1,0.08,-2200,Express,2025-06-13,2025,June,Friday,54000,Medium
+S1161,Noman,Corporate,Punjab,Multan,Accessories,Keyboard,4800,1,0.03,1000,Standard,2025-06-14,2025,June,Saturday,4800,Low
+S1162,Farah,Consumer,Sindh,Hyderabad,Electronics,Camera,93000,1,0.1,13000,Express,2025-06-15,2025,June,Sunday,93000,Medium
+S1163,Imran,Home Office,Islamabad,Islamabad,Furniture,Chair,16000,2,0.05,3100,Standard,2025-06-16,2025,June,Monday,32000,Low
+S1164,Sana,Consumer,Punjab,Faisalabad,Office Supplies,Printer,28000,2,0.08,4800,Express,2025-06-17,2025,June,Tuesday,56000,Medium
+S1165,Kamran,Corporate,KPK,Peshawar,Electronics,Mobile,88000,1,0.1,18500,Standard,2025-06-18,2025,June,Wednesday,88000,Medium
+S1166,Iqra,Consumer,Balochistan,Quetta,Accessories,Lamp,5300,3,0.02,1100,Express,2025-06-19,2025,June,Thursday,15900,Low
+S1167,Shahid,Home Office,Sindh,Karachi,Furniture,Table,30000,1,0.05,5000,Standard,2025-06-20,2025,June,Friday,30000,Low
+S1168,Nadia,Consumer,Punjab,Rawalpindi,Electronics,Monitor,42000,1,0.1,6900,Express,2025-06-21,2025,June,Saturday,42000,Low
+S1169,Javed,Corporate,Islamabad,Islamabad,Accessories,Mouse,2300,5,0.01,480,Standard,2025-06-22,2025,June,Sunday,11500,Low
+S1170,Rana,Consumer,KPK,Peshawar,Electronics,Laptop,118000,1,0.1,22000,Express,2025-06-23,2025,June,Monday,118000,High
+S1171,Ali,Corporate,Punjab,Lahore,Office Supplies,Binder,2000,10,0.05,380,Standard,2025-06-24,2025,June,Tuesday,20000,Low
+S1172,Ahmed,Consumer,Sindh,Karachi,Furniture,Desk,35000,1,0.05,5600,Express,2025-06-25,2025,June,Wednesday,35000,Low
+S1173,Sara,Home Office,Islamabad,Islamabad,Electronics,Tablet,65000,1,0.15,11200,Standard,2025-06-26,2025,June,Thursday,65000,Medium
+S1174,Ayesha,Consumer,Punjab,Faisalabad,Accessories,Keyboard,4500,2,0.03,900,Express,2025-06-27,2025,June,Friday,9000,Low
+S1175,Bilal,Corporate,Sindh,Karachi,Electronics,Mobile,87000,2,0.1,18000,Standard,2025-06-28,2025,June,Saturday,174000,High
+S1176,Usman,Consumer,KPK,Peshawar,Office Supplies,Paper,780,28,0.02,180,Express,2025-06-29,2025,June,Sunday,21840,Low
+S1177,Fatima,Home Office,Punjab,Lahore,Furniture,Sofa,58000,1,0.08,-1800,Standard,2025-06-30,2025,June,Monday,58000,Medium
+S1178,Hina,Consumer,Sindh,Karachi,Electronics,Camera,97000,1,0.1,15000,Express,2025-07-01,2025,July,Tuesday,97000,Medium
+S1179,Hamza,Corporate,Islamabad,Islamabad,Accessories,Lamp,5900,2,0.02,1300,Standard,2025-07-02,2025,July,Wednesday,11800,Low
+S1180,Zain,Consumer,KPK,Peshawar,Furniture,Chair,17000,2,0.05,3300,Express,2025-07-03,2025,July,Thursday,34000,Low
+S1181,Noman,Corporate,Punjab,Multan,Electronics,Laptop,126000,1,0.12,26500,Standard,2025-07-04,2025,July,Friday,126000,High
+S1182,Farah,Consumer,Sindh,Hyderabad,Accessories,Mouse,2500,4,0.01,550,Express,2025-07-05,2025,July,Saturday,10000,Low
+S1183,Imran,Home Office,Islamabad,Islamabad,Office Supplies,Printer,30000,1,0.08,5400,Standard,2025-07-06,2025,July,Sunday,30000,Low
+S1184,Sana,Consumer,Punjab,Faisalabad,Electronics,Monitor,46000,1,0.1,7900,Express,2025-07-07,2025,July,Monday,46000,Low
+S1185,Kamran,Corporate,KPK,Peshawar,Furniture,Table,31000,1,0.05,5200,Standard,2025-07-08,2025,July,Tuesday,31000,Low
+S1186,Iqra,Consumer,Balochistan,Quetta,Electronics,Mobile,90000,1,0.1,19000,Express,2025-07-09,2025,July,Wednesday,90000,Medium
+S1187,Shahid,Home Office,Sindh,Karachi,Accessories,Keyboard,4200,3,0.03,800,Standard,2025-07-10,2025,July,Thursday,12600,Low
+S1188,Nadia,Consumer,Punjab,Rawalpindi,Furniture,Desk,39000,1,0.05,6300,Express,2025-07-11,2025,July,Friday,39000,Low
+S1189,Javed,Corporate,Islamabad,Islamabad,Electronics,Tablet,69000,1,0.15,12000,Standard,2025-07-12,2025,July,Saturday,69000,Medium
+S1190,Rana,Consumer,KPK,Peshawar,Office Supplies,Binder,1900,9,0.05,370,Express,2025-07-13,2025,July,Sunday,17100,Low
+S1191,Ali,Consumer,Punjab,Lahore,Accessories,Lamp,5100,3,0.02,1050,Standard,2025-07-14,2025,July,Monday,15300,Low
+S1192,Ahmed,Corporate,Sindh,Karachi,Electronics,Camera,95000,1,0.1,14000,Express,2025-07-15,2025,July,Tuesday,95000,Medium
+S1193,Sara,Home Office,Islamabad,Islamabad,Furniture,Sofa,56000,1,0.08,-2000,Standard,2025-07-16,2025,July,Wednesday,56000,Medium
+S1194,Ayesha,Consumer,Punjab,Faisalabad,Electronics,Laptop,122000,1,0.12,24000,Express,2025-07-17,2025,July,Thursday,122000,High
+S1195,Bilal,Corporate,Sindh,Karachi,Accessories,Mouse,2400,6,0.01,500,Standard,2025-07-18,2025,July,Friday,14400,Low
+S1196,Usman,Consumer,KPK,Peshawar,Office Supplies,Paper,680,26,0.02,160,Express,2025-07-19,2025,July,Saturday,17680,Low
+S1197,Fatima,Home Office,Punjab,Lahore,Furniture,Chair,15000,1,0.05,2700,Standard,2025-07-20,2025,July,Sunday,15000,Low
+S1198,Hina,Consumer,Sindh,Karachi,Electronics,Mobile,86000,2,0.1,17500,Express,2025-07-21,2025,July,Monday,172000,High
+S1199,Hamza,Corporate,Islamabad,Islamabad,Accessories,Keyboard,4700,2,0.03,980,Standard,2025-07-22,2025,July,Tuesday,9400,Low
+S1200,Zain,Consumer,KPK,Peshawar,Electronics,Monitor,43000,1,0.1,7100,Express,2025-07-23,2025,July,Wednesday,43000,Low
